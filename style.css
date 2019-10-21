@@ -5,3 +5,11 @@
 .video-player{
 	width: auto;
 }
+div a i{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+div img{
+    width: 100%;
+    height: auto;
+}
