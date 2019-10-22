@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Embedding video player</h3>
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    This project consists of building an HTML document that matches the appearance of youtube video player page.
     <br />    
   </p>
 </p>
@@ -22,7 +22,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This is our first collaboration project. Just the front end of a copy of youtube video player page.
+This is our first collaboration project. Just the front end of a copy of a youtube video player page.
 It includes:
 * Navbar
 * Video player
@@ -37,7 +37,7 @@ It includes:
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See https://opensource.org/licenses/MIT for more information.
 
 
 
