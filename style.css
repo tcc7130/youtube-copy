@@ -1,3 +1,9 @@
+.no-padding{
+    padding: 0;
+}
+nav{
+    margin-bottom: 20px;
+}
 #user-section {
     margin: 10px 0;
 }
@@ -17,10 +23,25 @@ div img {
 }
 
 #logoImage {
-    height: 50px;
-    width: 50px;
+    height: 20px;
+    width: auto;
 }
-
-#video-frame{
-	frameborder=0;
+.video{
+    display: flex;
+    margin-bottom: 10px;
+}
+.video img{
+    width: 50%;
+}
+.video-text{
+    width: 50%;
+    color:grey;
+    font-size: 14px;
+    font-style: italic;
+    padding: 0 10px;
+}
+.video-text p{
+    font-style: normal;
+    color: black;
+    font-size: 16px;
 }
