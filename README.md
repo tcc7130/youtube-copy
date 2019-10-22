@@ -13,7 +13,6 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Usage](#usage) 
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -23,25 +22,17 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
-
+This is our first collaboration project. Just the front end of a copy of youtube video player page.
+It includes:
+* Navbar
+* Video player
+* Suggested videos
 
 ### Built With
 
-* []()
-* []()
-* []()
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+* Bootstrap(https://getbootstrap.com)
+* HTML5
+* CSS3
 
 <!-- LICENSE -->
 ## License
