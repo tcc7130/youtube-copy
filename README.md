@@ -30,7 +30,7 @@ It includes:
 
 ### Built With
 
-* Bootstrap(https://getbootstrap.com)
+* [Bootstrap](https://getbootstrap.com)
 * HTML5
 * CSS3
 
@@ -44,18 +44,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Fernanda Olvera - tcc7130@gmail.com
+Krishna Acharya - libraryismyparadise@gmail.com
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Project Link: [https://github.com/tcc7130/youtube-copy](https://github.com/tcc7130/youtube-copy)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Font Awesome](https://fontawesome.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
