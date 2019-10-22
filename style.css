@@ -20,3 +20,7 @@ div img {
     height: 50px;
     width: 50px;
 }
+
+#video-frame{
+	frameborder=0;
+}
