@@ -69,4 +69,4 @@ Project Link: [https://github.com/github_username/repo](https://github.com/githu
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: img/screenshot.png
+[product-screenshot]: img/screenshot.PNG
