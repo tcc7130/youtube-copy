@@ -1,0 +1,26 @@
+#user-section {
+    margin: 10px 0;
+}
+
+.video-player {
+    width: auto;
+}
+
+div a i {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+div img {
+    width: 100%;
+    height: auto;
+}
+
+#logoImage {
+    height: 50px;
+    width: 50px;
+}
+
+#video-frame{
+	frameborder=0;
+}
